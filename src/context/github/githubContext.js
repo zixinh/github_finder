@@ -1,4 +1,4 @@
-import { createContext } from 'context';
+import { createContext } from 'react';
 
 const githubContext = createContext();
 
